@@ -1,0 +1,29 @@
+﻿{
+	"version": 1694572653,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/tilemap.png",
+		"images/tilemap2.png",
+		"images/coin-sheet0.png",
+		"images/coin-sheet1.png",
+		"images/char-sheet0.png",
+		"images/chest1-sheet0.png",
+		"images/chest1-sheet1.png",
+		"images/chest2-sheet0.png",
+		"images/chest2-sheet1.png",
+		"images/clouds-sheet0.png",
+		"images/spritefont.png",
+		"images/spritefont4.png",
+		"images/button-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
